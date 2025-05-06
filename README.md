@@ -1,4 +1,4 @@
-![Screenshot 2025-05-06 214251](https://github.com/user-attachments/assets/ff64435e-ea34-482e-9523-5921836d9c56)# Linux-IPC-Message-Queues
+# Linux-IPC-Message-Queues
 Linux IPC-Message Queues
 
 # AIM:
